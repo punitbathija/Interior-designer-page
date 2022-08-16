@@ -9,6 +9,6 @@
 - CSS (positions, flex, border-radius)
 - Time Consumed to make this page 150 Minutes
 - Preview
-  ![preview](./10.png.png)
+  ![preview](./10.png)
 
 ## Made By Punit Bathija
